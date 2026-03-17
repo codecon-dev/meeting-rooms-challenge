@@ -20,24 +20,4 @@ A reunião `[0,30]` ocupa uma sala o tempo todo.
 
 ---
 
-## Setup
-
-Escolha sua linguagem e rode os testes:
-
-**Python**
-```bash
-pip install pytest
-pytest tests/ -v
-```
-
-**TypeScript**
-```bash
-npm install
-npx vitest run
-```
-
-**Go**
-```bash
-go test ./tests/ -v
-```
 # meeting-rooms-challenge
